@@ -1,0 +1,11 @@
+[
+{"folder":"Customers","file":"AdventureWorks_Customers.csv"},
+{"folder":"Customers","file":"AdventureWorks_Calendar.csv"},
+{"folder":"Products","file":"AdventureWorks_Product_Categories.csv"},
+{"folder":"Products","file":"AdventureWorks_Product_Subcategories.csv"},
+{"folder":"Returns","file":"AdventureWorks_Returns.csv"},
+{"folder":"Sales","file":"AdventureWorks_Sales_2015.csv"},
+{"folder":"Sales","file":"AdventureWorks_Sales_2016.csv"},
+{"folder":"Sales","file":"AdventureWorks_Sales_2017.csv"},
+{"folder":"Sales","file":"AdventureWorks_Territories.csv"}
+]
